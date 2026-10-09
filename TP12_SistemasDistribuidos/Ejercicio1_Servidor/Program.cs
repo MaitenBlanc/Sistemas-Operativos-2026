@@ -7,7 +7,7 @@ class TcpServer
 {
     static void Main()
     {
-        TcpListener server = null;
+        TcpListener? server = null;
         try
         {
             int port = 13000;

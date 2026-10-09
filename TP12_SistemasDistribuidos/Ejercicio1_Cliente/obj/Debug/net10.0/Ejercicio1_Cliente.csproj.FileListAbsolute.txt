@@ -26,3 +26,4 @@
 /home/maiten/Escritorio/UADER/3°Año/Sistemas Operativos/Trabajos Prácticos/TP Terminados/Sistemas-Operativos-2026/TP12_SistemasDistribuidos/Ejercicio1_Cliente/obj/Debug/net10.0/Ejercicio1_Cliente.pdb
 /home/maiten/Escritorio/UADER/3°Año/Sistemas Operativos/Trabajos Prácticos/TP Terminados/Sistemas-Operativos-2026/TP12_SistemasDistribuidos/Ejercicio1_Cliente/obj/Debug/net10.0/Ejercicio1_Cliente.genruntimeconfig.cache
 /home/maiten/Escritorio/UADER/3°Año/Sistemas Operativos/Trabajos Prácticos/TP Terminados/Sistemas-Operativos-2026/TP12_SistemasDistribuidos/Ejercicio1_Cliente/obj/Debug/net10.0/ref/Ejercicio1_Cliente.dll
+/home/maiten/Escritorio/UADER/3°Año/Sistemas Operativos/Trabajos Prácticos/TP Terminados/Sistemas-Operativos-2026/TP12_SistemasDistribuidos/Ejercicio1_Cliente/obj/Debug/net10.0/Ejercicio1_Cliente.sourcelink.json
