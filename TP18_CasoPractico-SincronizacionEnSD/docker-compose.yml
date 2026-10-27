@@ -1,0 +1,35 @@
+services:
+  coordinador:
+    build:
+      context: .
+      dockerfile: Dockerfile.Coordinador
+
+  nodo1:
+    build:
+      context: .
+      dockerfile: Dockerfile.Nodo
+    environment:
+      - COORD_HOST=coordinador
+    command: ["105"] # Diferencia de 5s
+    depends_on:
+      - coordinador
+
+  nodo2:
+    build:
+      context: .
+      dockerfile: Dockerfile.Nodo
+    environment:
+      - COORD_HOST=coordinador
+    command: ["110"] # Diferencia de 10s
+    depends_on:
+      - coordinador
+
+  nodo3:
+    build:
+      context: .
+      dockerfile: Dockerfile.Nodo
+    environment:
+      - COORD_HOST=coordinador
+    command: ["400"] # Diferencia de 20s
+    depends_on:
+      - coordinador
